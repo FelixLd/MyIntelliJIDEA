@@ -1,8 +1,9 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -578,12 +579,6 @@
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value />
-    </option>
-    <option name="SASS_MIXIN">
-      <value>
-        <option name="FOREGROUND" value="8080" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
     </option>
     <option name="SCOPE_KEY_All">
       <value />
